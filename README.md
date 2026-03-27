@@ -5,7 +5,7 @@ Este repositorio centraliza todas las actividades del ciclo escolar: tareas, eje
 
 Este repositorio contiene las actividades del curso organizadas en tres áreas:
 
-- 🖥️ **Sistemas / Contenidos**
+- 🖥️ **Producciones Digitales**
 - 💻 **Laboratorio**
 - 🔧 **Reparaciones**
 
@@ -13,7 +13,7 @@ Cada área tiene su propia forma de trabajo y entrega.
 
 ---
 
-## 🖥️ 1. Sistemas / Contenidos (Entrega digital)
+## 🖥️ 1. Producciones Digitales (Entrega digital)
 
 ### 📌 Modalidad:
 - Desarrollo de tareas teóricas y prácticas.
