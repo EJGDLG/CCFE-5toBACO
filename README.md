@@ -57,7 +57,7 @@ Todas las tareas y ejercicios de **Producciones Digitales** se enviarán por cor
 5to BACO - Producciones Digitales - Nombre del Estudiante - Nombre de la Tarea
 
 # 💻 2. Laboratorio
-##📌 Modalidad
+## 📌 Modalidad
 
 En el área de Laboratorio se realizarán ejercicios prácticos relacionados con el uso de herramientas tecnológicas, bases de datos, consultas, actividades digitales y trabajos aplicados.
 
@@ -69,12 +69,12 @@ Las tareas y ejercicios del área de Laboratorio se entregarán por correo elect
 ## 📧 Correo de entrega:
 edwinjosegabriel@gmail.com
 
-##🚨 Importante
-No se aceptan entregas incompletas.
-El estudiante debe verificar que el archivo haya sido adjuntado correctamente.
-Se evaluará la ejecución correcta, el orden, la presentación y el cumplimiento de instrucciones.
-Ejemplo de asunto del correo:
-5to BACO - Laboratorio - Nombre del Estudiante - Nombre de la Tarea
+## 🚨 Importante
+- No se aceptan entregas incompletas.
+- El estudiante debe verificar que el archivo haya sido adjuntado correctamente.
+- Se evaluará la ejecución correcta, el orden, la presentación y el cumplimiento de instrucciones.
+- Ejemplo de asunto del correo:
+- 5to BACO - Laboratorio - Nombre del Estudiante - Nombre de la Tarea
 
 
 # 💻 3. Laboratorio II
@@ -84,22 +84,22 @@ En el área de Laboratorio II se realizarán tareas enfocadas en la elaboración
 
 Durante la Tercera Unidad, varias actividades se realizarán utilizando Google Docs, con el objetivo de reforzar:
 
-Redacción de informes.
-Organización de información.
-Uso correcto de títulos y subtítulos.
-Elaboración de tablas.
-Presentación formal de documentos.
-Uso responsable de herramientas digitales.
+- Redacción de informes.
+- Organización de información.
+- Uso correcto de títulos y subtítulos.
+- Elaboración de tablas.
+- Presentación formal de documentos.
+- Uso responsable de herramientas digitales.
 
 ## 📝 Indicaciones
-Las tareas deben realizarse en Google Docs.
-Cada documento debe tener portada.
-Se debe cuidar la ortografía, redacción y presentación.
-El documento debe estar ordenado y completo.
-Se deben respetar las instrucciones específicas de cada tarea.
-El estudiante debe compartir el documento correctamente por correo electrónico.
+- Las tareas deben realizarse en Google Docs.
+- Cada documento debe tener portada.
+- Se debe cuidar la ortografía, redacción y presentación.
+- El documento debe estar ordenado y completo.
+- Se deben respetar las instrucciones específicas de cada tarea.
+- El estudiante debe compartir el documento correctamente por correo electrónico.
 
-##📤 Forma de entrega
+## 📤 Forma de entrega
 
 Las tareas de Laboratorio II se realizarán en Google Docs y se compartirán por correo electrónico.
 
@@ -110,7 +110,7 @@ edwinjosegabriel@gmail.com
 
 Los informes deben cumplir con lo siguiente:
 
-##📌 Modalidad
+## 📌 Modalidad
 En el área de Reparaciones se realizarán actividades prácticas, análisis técnico, tareas escritas y ejercicios relacionados con electricidad básica, cables eléctricos, seguridad y mantenimiento.
 
 ## 📝 Indicaciones
@@ -124,25 +124,25 @@ Cada tarea debe incluir nombre completo, grado, sección, curso y fecha.
 
 Las tareas escritas a mano se entregarán físicamente en clase, en hojas tamaño carta.
 
-##🔌 Prácticas con materiales
+## 🔌 Prácticas con materiales
 
 En algunas actividades de Reparaciones se solicitarán materiales para prácticas en clase, por ejemplo:
 
-Cable eléctrico.
-Clavija o enchufe macho.
-Tomacorriente hembra aéreo.
-Cinta aislante.
-Destornillador.
-Otros materiales indicados por el catedrático.
+- Cable eléctrico.
+- Clavija o enchufe macho.
+- Tomacorriente hembra aéreo.
+- Cinta aislante.
+- Destornillador.
+- Otros materiales indicados por el catedrático.
 
 
-##⚠️ Responsabilidad sobre materiales
+## ⚠️ Responsabilidad sobre materiales
 Los materiales solicitados para las prácticas serán responsabilidad del alumno.
 El estudiante debe traer los materiales:
 
-En buen estado.
-Completos.
-Identificados si es necesario.
-En la fecha indicada.
-Según las especificaciones dadas por el catedrático.
+- En buen estado.
+- Completos.
+- Identificados si es necesario.
+- En la fecha indicada.
+- Según las especificaciones dadas por el catedrático.
 
