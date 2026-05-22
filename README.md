@@ -1,4 +1,4 @@
-# CCFE-5toBACO
+# CCFE-5toBACO - Tercera Unidad
 
 Este repositorio centraliza las actividades correspondientes a la **Tercera Unidad** del ciclo escolar para **5to Bachillerato en Computación**.  
 Aquí se organizarán las tareas, ejercicios prácticos, proyectos, materiales de apoyo e instrucciones generales de entrega.
