@@ -1,123 +1,148 @@
 # CCFE-5toBACO
-Este repositorio centraliza todas las actividades del ciclo escolar: tareas, ejercicios prácticos, proyectos y material de apoyo. Está diseñado para que los estudiantes puedan seguir instrucciones claras, desarrollar competencias tecnológicas y fortalecer su aprendizaje de forma progresiva.
+
+Este repositorio centraliza las actividades correspondientes a la **Tercera Unidad** del ciclo escolar para **5to Bachillerato en Computación**.  
+Aquí se organizarán las tareas, ejercicios prácticos, proyectos, materiales de apoyo e instrucciones generales de entrega.
+
+El objetivo de este espacio es que los estudiantes puedan seguir instrucciones claras, desarrollar competencias tecnológicas, reforzar la responsabilidad académica y cumplir correctamente con las actividades asignadas en cada área.
+
+---
 
 # 📘 Instructivo General del Curso – 5to Bachillerato en Computación
 
-Este repositorio contiene las actividades del curso organizadas en tres áreas:
+Este repositorio contiene las actividades del curso organizadas en las siguientes áreas:
 
 - 🖥️ **Producciones Digitales**
 - 💻 **Laboratorio**
+- 💻 **Laboratorio II**
 - 🔧 **Reparaciones**
 
-Cada área tiene su propia forma de trabajo y entrega.
+Cada área tiene su propia forma de trabajo, entrega y evaluación.
 
 ---
 
-## 🖥️ 1. Producciones Digitales (Entrega digital)
+# 🖥️ 1. Producciones Digitales
 
-### 📌 Modalidad:
-- Desarrollo de tareas teóricas y prácticas.
+## 📌 Modalidad
 
-### 📝 Indicaciones:
-- Seguir instrucciones de cada actividad.
-- Trabajar de forma ordenada y clara.
+En el área de **Producciones Digitales** se realizarán tareas teóricas, ejercicios prácticos y actividades relacionadas con el desarrollo de competencias digitales.
 
-### 📤 Entrega:
-- Todas las tareas se enviarán por el medio de comunicación oficial:
-  
-  📧 **Correo electrónico:** edwinjosegabriel@gmail.com
+Las actividades pueden incluir:
 
-### 🚨 Importante:
-- No se aceptan tareas fuera del medio indicado.
-- Respetar fechas de entrega.
-- Archivos deben estar completos y bien presentados.
+- Ejercicios prácticos.
+- Investigaciones.
+- Informes.
+- Análisis de temas vistos en clase.
+- Actividades digitales asignadas por el catedrático.
 
 ---
 
-## 💻 2. Laboratorio (Trabajo en clase)
+## 📤 Forma de entrega
 
-### 📌 Modalidad:
-- Ejercicios prácticos realizados en clase.
+Todas las tareas y ejercicios de **Producciones Digitales** se enviarán por correo electrónico.
 
-### 📝 Indicaciones:
-- Resolver los ejercicios durante el tiempo asignado.
-- Aplicar correctamente los conocimientos vistos.
-
-### 📍 Entrega:
-- Los ejercicios se realizan, se terminan y se entregan **en la misma clase**.
-- La nota se asigna inmediatamente.
-
-### 📄 Tareas:
-- Las tareas se entregan **en papel**.
-
-### 🚨 Importante:
-- No se reciben ejercicios fuera de clase.
-- Se evaluará ejecución correcta y participación.
+📧 **Correo de entrega:**  
+**edwinjosegabriel@gmail.com**
 
 ---
 
-## 🔧 3. Reparaciones (Entrega física)
+## 🚨 Importante
 
-### 📌 Modalidad:
-- Actividades prácticas y análisis técnico.
+- No se aceptarán tareas enviadas por medios no autorizados.
+- Los archivos deben enviarse completos y bien presentados.
+- El asunto del correo debe identificar claramente la tarea.
 
-### 📝 Indicaciones:
-- Realizar tareas en hojas (a mano o impresas).
-- Responder de forma clara, ordenada y completa.
+### Ejemplo de asunto del correo:
 
-### 📍 Entrega:
-- Entregar en clase en la fecha indicada.
 
----
+5to BACO - Producciones Digitales - Nombre del Estudiante - Nombre de la Tarea
 
-### 🌐 Excepción (Trabajo en línea):
-- La única tarea permitida en línea es:
-  
-  ⚡ **Telehack**
+# 💻 2. Laboratorio
+##📌 Modalidad
 
-### 🚨 Importante:
-- Solo se recibirá dentro del tiempo estipulado.
-- No se aceptan entregas tardías.
+En el área de Laboratorio se realizarán ejercicios prácticos relacionados con el uso de herramientas tecnológicas, bases de datos, consultas, actividades digitales y trabajos aplicados.
 
----
 
-## 🏆 Reglas Generales del Curso
+## 📤 Forma de entrega
 
-- Cumplir con fechas de entrega.
-- Seguir instrucciones de cada actividad.
-- Mantener orden en tareas y trabajos.
-- Trabajar con responsabilidad.
+Las tareas y ejercicios del área de Laboratorio se entregarán por correo electrónico.
 
----
+## 📧 Correo de entrega:
+edwinjosegabriel@gmail.com
 
-## 💡 Recomendación
-> “El éxito en tecnología no solo depende del conocimiento, sino de la disciplina y el cumplimiento de instrucciones.”
+##🚨 Importante
+No se aceptan entregas incompletas.
+El estudiante debe verificar que el archivo haya sido adjuntado correctamente.
+Se evaluará la ejecución correcta, el orden, la presentación y el cumplimiento de instrucciones.
+Ejemplo de asunto del correo:
+5to BACO - Laboratorio - Nombre del Estudiante - Nombre de la Tarea
 
----
 
-## ⭐ Mejora de Nota / Puntos Extra
+# 💻 3. Laboratorio II
+## 📌 Modalidad
 
-Para optar a:
+En el área de Laboratorio II se realizarán tareas enfocadas en la elaboración de informes, análisis de contenido, investigaciones y actividades desarrolladas en herramientas digitales.
 
-- ✅ Mejoramiento de nota  
-- ✅ Puntos extra  
-- ✅ Entrega de tareas fuera de tiempo  
+Durante la Tercera Unidad, varias actividades se realizarán utilizando Google Docs, con el objetivo de reforzar:
 
-El estudiante deberá cumplir con el siguiente requisito:
+Redacción de informes.
+Organización de información.
+Uso correcto de títulos y subtítulos.
+Elaboración de tablas.
+Presentación formal de documentos.
+Uso responsable de herramientas digitales.
 
-### 📚 Diplomado obligatorio
+## 📝 Indicaciones
+Las tareas deben realizarse en Google Docs.
+Cada documento debe tener portada.
+Se debe cuidar la ortografía, redacción y presentación.
+El documento debe estar ordenado y completo.
+Se deben respetar las instrucciones específicas de cada tarea.
+El estudiante debe compartir el documento correctamente por correo electrónico.
 
-Completar los primeros módulos del diplomado:
+##📤 Forma de entrega
 
-🎓 **Diplomado de Big Data – Fundación Carlos Slim**
+Las tareas de Laboratorio II se realizarán en Google Docs y se compartirán por correo electrónico.
 
-### 🧩 Módulos requeridos:
-- ✔️ Módulo 1: Finder  
-- ✔️ Módulo 2: Curador de datos  
+## 📧 Correo de entrega:
+edwinjosegabriel@gmail.com
 
----
+## 📄 Requisitos generales para documentos en Google Docs
 
-### 📅 Fecha límite:
-- Debe completarse **una semana antes de los exámenes**
+Los informes deben cumplir con lo siguiente:
 
----
+##📌 Modalidad
+En el área de Reparaciones se realizarán actividades prácticas, análisis técnico, tareas escritas y ejercicios relacionados con electricidad básica, cables eléctricos, seguridad y mantenimiento.
+
+## 📝 Indicaciones
+Las tareas que se realicen a mano deberán entregarse en hojas tamaño carta.
+Las hojas deben estar limpias, ordenadas y bien identificadas.
+Se debe escribir con letra clara.
+Las respuestas deben ser completas y coherentes.
+Cada tarea debe incluir nombre completo, grado, sección, curso y fecha.
+
+##📍 Forma de entrega
+
+Las tareas escritas a mano se entregarán físicamente en clase, en hojas tamaño carta.
+
+##🔌 Prácticas con materiales
+
+En algunas actividades de Reparaciones se solicitarán materiales para prácticas en clase, por ejemplo:
+
+Cable eléctrico.
+Clavija o enchufe macho.
+Tomacorriente hembra aéreo.
+Cinta aislante.
+Destornillador.
+Otros materiales indicados por el catedrático.
+
+
+##⚠️ Responsabilidad sobre materiales
+Los materiales solicitados para las prácticas serán responsabilidad del alumno.
+El estudiante debe traer los materiales:
+
+En buen estado.
+Completos.
+Identificados si es necesario.
+En la fecha indicada.
+Según las especificaciones dadas por el catedrático.
+
